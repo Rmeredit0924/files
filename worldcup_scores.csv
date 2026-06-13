@@ -1,10 +1,10 @@
 home_team,away_team,home_goals,away_goals,status,winner
 Mexico,South Africa,2.0,0.0,FINISHED,HOME_TEAM
 South Korea,Czechia,2.0,1.0,FINISHED,HOME_TEAM
-Canada,Bosnia-Herzegovina,,,FINISHED,
+Canada,Bosnia-Herzegovina,1.0,1.0,FINISHED,DRAW
 United States,Paraguay,4.0,1.0,FINISHED,HOME_TEAM
 Qatar,Switzerland,1.0,1.0,FINISHED,DRAW
-Brazil,Morocco,1.0,1.0,PAUSED,DRAW
+Brazil,Morocco,1.0,1.0,IN_PLAY,DRAW
 Haiti,Scotland,,,TIMED,
 Australia,Turkey,,,TIMED,
 Germany,Curaçao,,,TIMED,
