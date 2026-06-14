@@ -8,8 +8,8 @@ Brazil,Morocco,1.0,1.0,FINISHED,DRAW
 Haiti,Scotland,0.0,1.0,FINISHED,AWAY_TEAM
 Australia,Turkey,2.0,0.0,FINISHED,HOME_TEAM
 Germany,Curaçao,7.0,1.0,FINISHED,HOME_TEAM
-Netherlands,Japan,0.0,0.0,IN_PLAY,DRAW
-Ivory Coast,Ecuador,,,TIMED,
+Netherlands,Japan,1.0,0.0,IN_PLAY,HOME_TEAM
+Ivory Coast,Ecuador,,,SCHEDULED,
 Sweden,Tunisia,,,TIMED,
 Spain,Cape Verde Islands,,,TIMED,
 Belgium,Egypt,,,TIMED,
