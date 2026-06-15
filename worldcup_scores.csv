@@ -1,7 +1,7 @@
 home_team,away_team,home_goals,away_goals,status,winner
 Mexico,South Africa,2.0,0.0,FINISHED,HOME_TEAM
 South Korea,Czechia,2.0,1.0,FINISHED,HOME_TEAM
-Canada,Bosnia-Herzegovina,1.0,1.0,FINISHED,DRAW
+Canada,Bosnia-Herzegovina,,,FINISHED,
 United States,Paraguay,4.0,1.0,FINISHED,HOME_TEAM
 Qatar,Switzerland,1.0,1.0,FINISHED,DRAW
 Brazil,Morocco,1.0,1.0,FINISHED,DRAW
@@ -11,7 +11,7 @@ Germany,Curacao,7.0,1.0,FINISHED,HOME_TEAM
 Netherlands,Japan,2.0,2.0,FINISHED,DRAW
 Ivory Coast,Ecuador,1.0,0.0,FINISHED,HOME_TEAM
 Sweden,Tunisia,5.0,1.0,FINISHED,HOME_TEAM
-Spain,Cape Verde Islands,0.0,0.0,PAUSED,DRAW
+Spain,Cape Verde Islands,0.0,0.0,IN_PLAY,DRAW
 Belgium,Egypt,,,TIMED,
 Saudi Arabia,Uruguay,,,TIMED,
 Iran,New Zealand,,,TIMED,
